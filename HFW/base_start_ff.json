@@ -5,8 +5,6 @@
   { "types" : ["RnvQl"] , "name" : "Kill 3 different flying machines"},
   { "types" : ["FBexY"] , "name" : "Kill 3 Clamberjaws and 3 Leaplashers"},
   { "types" : ["LaCiZ"] , "name" : "Kill 1 Stormbird and 1 Dreadwing"},
-  { "types" : ["hpjLg"] , "name" : "Earn full stripes at 1 hunting ground"},
-  { "types" : ["rLwgA"] , "name" : "Earn 1 stripe at each (4) hunting ground"},
   { "types" : ["DFTen"] , "name" : "Kill 2 Scorchers and 2 Ravagers"},
   { "types" : ["aYfFo"] , "name" : "Kill 1 Rockbreaker"},
   { "types" : ["QOZIV"] , "name" : "Kill 3 Stalkers"},
@@ -20,7 +18,6 @@
   { "types" : ["SFNWD"] , "name" : "Defeat 10 machine types only in HFW"},
   { "types" : ["chKek"] , "name" : "Complete Taste of Victory"},
   { "types" : ["cDHhT"] , "name" : "Complete A Hunt to Remember"},
-  { "types" : ["aWvZj"] , "name" : "Complete 5 rebel outposts"},
   { "types" : ["fJLRE"] , "name" : "Kill 20 human enemies"},
   { "types" : ["iwprJ"] , "name" : "Complete Burning Blooms"},
   { "types" : ["JXBDy"] , "name" : "Complete A Tribe Apart"},
@@ -42,6 +39,9 @@
   { "types" : ["hzwCd"] , "name" : "Collect Totem of War"},
   { "types" : ["FJGRO"] , "name" : "Fully upgrade 1 pouch"},
   { "types" : ["ODJqI"] , "name" : "Complete 1 Tallneck"},
+  { "types" : ["aWvZj"] , "name" : "Complete 5 rebel outposts"},
+  { "types" : ["hpjLg"] , "name" : "Earn full stripes at 1 hunting ground"},
+  { "types" : ["rLwgA"] , "name" : "Earn 1 stripe at each (4) hunting ground"},
   { "types" : ["RwuTX"] , "name" : "Collect Greenshine in 2 sunken caverns"},
   { "types" : ["hjfop"] , "name" : "Build the Diving Mask"}
 ],[
